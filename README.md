@@ -1,1 +1,2 @@
-# brand-kit
+# Brand Kit
+Kudu repository Brand Kit
